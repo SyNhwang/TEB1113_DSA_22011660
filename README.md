@@ -11,3 +11,4 @@ Table of Contents :
 | Lab 5<br>June 25th | Stacks |
 | Lab 6<br>July 2nd | Queue<br> - Normal Queue<br> - Circular Queue |
 | Lab 7<br>July 9th | Trees<br> |
+| Lab 8<br>July 16th | Binary Search Tree<br> |
