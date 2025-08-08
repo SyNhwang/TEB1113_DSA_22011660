@@ -11,3 +11,4 @@ Table of Contents :
 | Lab 6<br>July 2nd | Queue<br> - Normal Queue<br> - Circular Queue |
 | Lab 7<br>July 9th | Trees<br> |
 | Lab 8<br>July 16th | Binary Search Tree<br> |
+| Lab 9<br>July 23rd | - Breadth First search<br> - Depth First Search |
